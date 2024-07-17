@@ -1,5 +1,5 @@
 # TowerClimber
-Full Unity project folder for a simple game I made. You can read more about it on my [website](https://sadcoffee.me/tower-climb)
+Full Unity project folder for a simple game I made. You can read more about it & download the compiled version on my [website](https://sadcoffee.me/tower-climb)
 
 To open and modify it for yourself, clone this repository, open Unity Hub, click Add & then select the cloned folder.
 
